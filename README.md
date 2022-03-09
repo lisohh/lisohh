@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 Now I'm currently learning basic HTML,CSS,vanilaJS and also React.js, Next.js.🌱
 
 <a href="https://lisohh-blog-lisohh.vercel.app/"><img src="https://img.shields.io/badge/-%E2%9D%8B%20blogs-brightgreen"/></a>
-<img alt="Python" src ="https://img.shields.io/badge/sohyunlee0902@gmail.com.svg?<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>&style=for-the-badge&logo=Gmail&logoColor=#EA4335"/>
+<img alt="sohyunlee0902@gmail.com"  src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+출처: https://hongssup.tistory.com/243 [Outgoing Introvert]
 
 I like to wonder and wander about everything 🛸
 I want to be a great surfer in development world~!
