@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 👋 Hi there! I'm frontend-developer using HTML,CSS and JS.<br>
 Now I'm currently learning basic HTML,CSS,vanilaJS and also React.js, Next.js. 🌱
 
-🐬 I like to wonder and wander about everything 🛸
+🐬 I like to wonder and wander about everything 🛸<br>
 🏄 My goal is to be a great surfer in development world~!
 
 
