@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there! I'm frontend-developer using HTML,CSS and JS.
+👋 Hi there! I'm frontend-developer using HTML,CSS and JS.<br>
 Now I'm currently learning basic HTML,CSS,vanilaJS and also React.js, Next.js.🌱
+
+<a href="https://lisohh-blog-lisohh.vercel.app/"><img src="https://img.shields.io/badge/-blog-brightgreen"/></ a>
 
 I like to wonder and wander about everything 🛸
 I want to be a great surfer in development world~!
