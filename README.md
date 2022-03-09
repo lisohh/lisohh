@@ -25,6 +25,7 @@ Now I'm currently learning basic HTML,CSS,vanilaJS and also React.js, Next.js. �
 🏄 My goal is to be a great surfer in development world~!
 
 <br>
+
 ## 🔑 Skills
 
 ### 📡 Platforms & Languages
