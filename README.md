@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Now I'm currently learning basic HTML,CSS,vanilaJS and also React.js, Next.js.🌱
 
 <a href="https://lisohh-blog-lisohh.vercel.app/"><img src="https://img.shields.io/badge/-%E2%9D%8B%20blogs-brightgreen"/></a>
-<img alt="sohyunlee0902@gmail.com"  src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img alt="sohyunlee0902@gmail.com"  src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 출처: https://hongssup.tistory.com/243 [Outgoing Introvert]
 
